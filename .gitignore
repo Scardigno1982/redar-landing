@@ -1,0 +1,4 @@
+# Build data
+.scannerwork
+sonar-project.properties
+/vendor/
